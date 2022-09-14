@@ -2,15 +2,12 @@
 
 An animated menu drop made with CSS and HTML.
 
-## Installation
+## Demo
 
-Clone this repository.
+![app demo](https://github.com/implete/menu-drop/raw/main/demo.gif "Menu drop demo")
 
-```shell
-git clone https://github.com/implete/menu-drop.git
-```
+## Quick start
 
-## Usage
-
-Open `index.html` in your browser.
- 
+1.  Clone this repo using `git clone https://github.com/implete/menu-drop.git <YOUR_PROJECT_NAME>`
+2.  Move to the appropriate directory: `cd <YOUR_PROJECT_NAME>`.<br />
+3. Open `index.html` in your browser.
